@@ -79,6 +79,22 @@ a {
   color: #434455;
 }
 
+.section-portfolio {
+  background-color: #f4f4fd;
+}
+
+.section-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.list-portfolio {
+  background-color: #ffffff;
+}
+
 .footer-logo {
   margin-bottom: 16px;
 }
